@@ -1,2 +1,1 @@
-# Oasis-Infobyte-Internship
-Data Science Internship | Python
+# Data Science Internship
